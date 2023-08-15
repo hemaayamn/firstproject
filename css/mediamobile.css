@@ -1,0 +1,20 @@
+header #aboveimeg h2 {
+    font-size:1.5rem;
+    line-height: 30px;
+}
+
+header #aboveimeg h1 {
+    font-size: 2.5rem;
+    line-height:45;
+}
+
+header #aboveimeg button {
+
+    padding: 12px 22px;
+
+}
+
+main #leftside,main #rightside {
+    float: none;
+    width: 100%;
+}
