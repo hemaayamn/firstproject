@@ -407,7 +407,7 @@ main #rightside .rightsections #subscribe button:hover {
 
 /*end rightside */
 .clear {
-	color: ;
+	content: " ";
 	clear: both;
 }
 
